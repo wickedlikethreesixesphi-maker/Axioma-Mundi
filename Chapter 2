@@ -1,0 +1,18 @@
+Chapter 2: Quantum Resolution of Pathologies: GFT and Renormalization Group
+2.1 Background Independence via Spectral GFT
+The classical structure of Non-Commutative Geometry (NCG), while mathematically rigorous, must be embedded within a full theory of quantum gravity to resolve pathologies like singularities and the cosmological constant problem. In the Quantum Spectral Standard Model (QSSM), this is achieved by defining a Spectral Group Field Theory (GFT).
+The NCG Spectral Triple is embedded into the GFT framework by defining a GFT field \varphi that carries both geometric and matter degrees of freedom:
+where g_i encode the geometric group elements (related to connection variables in General Relativity) and \xi \in \mathcal{H}_F carries the finite matter/Dirac structure defined in Chapter 1.
+The quantum action S_{\mathrm{QGFT}}[\varphi] couples geometry and matter:
+The NCG matter action is introduced through the term S_{D_F} \propto \mathrm{Tr}\big(D_F \xi^T \xi\big). This embedding allows for the emergent spacetime interpretation of the GFT condensate.
+2.2 The Cosmological Constant Killshot
+The Spectral Action Principle produces terms proportional to powers of the cutoff scale (\Lambda), with the most problematic being the cosmological constant term:
+where the f_4 \Lambda^4 term represents the observed cosmological constant, which is known to be unnaturally large in quantum field theory.
+In QSSM, this term is renormalized dynamically by the Group Field Theory Renormalization Group (RG) flow, governed by a Wetterich-type functional RG equation for the effective average action \Gamma_k[\varphi].
+The Non-Gaussian Fixed Point
+Numerical analysis of the flow equation,
+demonstrates that the relevant couplings flow towards a Non-Gaussian Fixed Point (NGFP) in the Ultraviolet (UV). Crucially, the fermionic back-reaction from the 96 D_F modes (both visible and dark) is responsible for a precise cancellation of the \Lambda^4 coupling:
+This UV fixed point effectively kills the bare cosmological constant, resolving the hierarchy problem at its root.
+2.3 Higgs Mass Stability
+The same NGFP that sets f_4^* to zero also locks the flow of the f_2 coupling (the coefficient of the curvature term \mathcal{L}_2), which contains the Higgs mass-squared term. This fixed point ensures the stability of the Higgs mass:
+This result is consistent with the experimentally observed Higgs mass of 125.25 \pm 0.17 \text{ GeV}.
