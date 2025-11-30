@@ -1,0 +1,20 @@
+Chapter 4: The Dark Sector: Algebraic Origin of DM and DE
+4.1 Dark Matter: The 4th Sterile Majorana Mode
+The existence of a Dark Matter (DM) candidate in the Quantum Spectral Standard Model (QSSM) is not an ad hoc addition but an algebraic mandate of the Grand Symmetry.
+The \mathbb{Z}_3 cyclic permutation symmetry, which acts on the three known generations of fermions, forces a fourth right-handed Majorana mode per generation within the structure of the finite Dirac operator D_F.
+ * Three modes are lifted to high mass scales by the seesaw mechanism, leaving the three observed light active neutrinos (with \Sigma m_\nu = 58.703 \text{ meV}).
+ * The remaining fourth mode (the Standard Model-singlet fermion, \xi_{DM}) is protected by a residual Klein four-group symmetry. This mode cannot mix with the visible sector and constitutes the Warm Dark Matter (WDM) candidate.
+Mass and Relic Density Derivation
+This sterile Majorana fermion \xi_{DM} receives its mass gravitationally, induced by the expectation value of the Group Field Theory (GFT) condensate (\sigma) at late times.
+The mass is derived from fundamental constants and the RG fixed points:
+where:
+ * \ell_{bounce}^{-1} is the Planck scale (the energy scale of the quantum bounce).
+ * \phi^8 is the algebraic suppression factor derived from the Golden Ratio (\phi).
+ * f_2^*/f_0^* is the ratio of the GFT Renormalization Group (RG) fixed-point coefficients.
+The relic density \Omega_{DM} h^2 is determined by a Gravitational Freeze-in mechanism operating near the quantum bounce. Since \xi_{DM} is a singlet, it is produced purely through gravitational interactions with the condensing GFT field.
+The result is a parameter-free, deductive prediction matching the observed value:
+4.2 Dark Energy: The IR Tail of the Fixed Point
+The origin of Dark Energy (DE) in the QSSM is directly linked to the UV fixed point resolution of the cosmological constant problem (Chapter 2).
+The observed vacuum energy (\Lambda_{obs}) is the small, positive residue left over from the RG flow as the system moves from the UV fixed point (f_4^*=0) down to the Infrared (IR) scale, which is set by the mass of the Dark Matter particle (m_{DM}).
+The Dark Energy density is predicted to be:
+in Planck units. This derivation ensures that the dark sector components (DM and DE) are not decoupled from the unification framework; they are both necessary consequences of the minimal algebraic constraints on the finite Dirac operator D_F.
